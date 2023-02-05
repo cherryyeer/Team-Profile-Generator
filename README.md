@@ -18,3 +18,7 @@ To use this repository, you have to install:
 ## License
 
 MIT License
+
+## Test result
+
+<img width="387" alt="Screenshot 2023-02-05 at 17 58 07" src="https://user-images.githubusercontent.com/116026358/216836903-d3d145a5-db46-4097-b8d4-bd362d63ea41.png">
