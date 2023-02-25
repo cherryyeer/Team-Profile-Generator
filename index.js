@@ -56,11 +56,11 @@ const promptMenu = () => {
       choices:['Add an engineer','Add an intern','Finish building the team']
     }])
     .then(userChoice => {
-      switch (userChoice.menu){
-        case 'add engineer':
+      switch (userChoice.choices){
+        case 'Add an engineer':
           promptEngineer();
           break;
-        case 'add intern':
+        case 'Add an intern':
           promptIntern();
           break;
         default:
