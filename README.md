@@ -15,6 +15,14 @@ To use this repository, you have to install:
 
 * Several questions will be prompted and you can type your answers. Once finished, the html file will be generated.
 
+* Sample questions screenshot
+
+<img width="482" alt="Screenshot 2023-02-25 at 13 02 43" src="https://user-images.githubusercontent.com/116026358/221358389-ea2d7587-8e46-4799-90e7-16e0071ee781.png">
+
+* Sample HTML screenshot
+
+<img width="1017" alt="Screenshot 2023-02-25 at 13 00 51" src="https://user-images.githubusercontent.com/116026358/221358336-ccee34a1-f98a-4462-b8f2-7f2bf23898dd.png">
+
 ## License
 
 MIT License
